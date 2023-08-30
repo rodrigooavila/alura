@@ -141,4 +141,4 @@ Bacharel em Matemática pela UFMG e cursando MBA em Data Science e Analytics na 
 Graduanda em Engenharia elétrica pela Universidade Federal do Piauí com pesquisa focada em Aprendizado de Máquina e Inteligência Computacional. Atuo como Scuba na escola de Data Science da Alura sempre amei muito programar, ensinar de trabalhar com tecnologia. Meu tempo livre dedico a brincar com meus animias, assistir animações e séries, além de jogar RPG de mesa.
 
 <a href="https://www.linkedin.com/in/mirla-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+</div># alura
